@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358856608408",
+    "firebase_url": "https://myapplication-fa90c.firebaseio.com",
+    "project_id": "myapplication-fa90c",
+    "storage_bucket": "myapplication-fa90c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358856608408:android:942cc6df5a467a877b5eed",
+        "android_client_info": {
+          "package_name": "com.androidlime.loginandregistrationandprofilefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358856608408-j3as3c3ubiihmgmrgkohq42ih25u2h0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidlime.loginandregistrationandprofilefirebase",
+            "certificate_hash": "1e47a2230591464c385048a7b73ab93a7c156944"
+          }
+        },
+        {
+          "client_id": "358856608408-nah3se4m7cepg06469npea4sfpk03dj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTHe_I0ZaOidYGTMxat3i29wFmyXIKoOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358856608408-nah3se4m7cepg06469npea4sfpk03dj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
